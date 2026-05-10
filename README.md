@@ -88,3 +88,7 @@ This dashboard helps organizations:
 * 🤖 Add churn prediction using Machine Learning
 * 👥 Include customer demographic analysis
 * ⚡ Improve dashboard interactivity
+
+---
+
+🤝 Connect with Me https://www.linkedin.com/in/mahima-jain-b97709331/
